@@ -1,3 +1,10 @@
+/*
+ * MovieServiceImpl.java
+ * Implementación de la interfaz MovieService.
+ * Controla el manejo de transacciones JDBC (commit, rollback, nivel SERIALIZABLE),
+ * validaciones de parámetros de entrada e interacción con las clases DAO.
+ */
+
 package es.udc.ws.movies.model.movieservice;
 
 import static es.udc.ws.movies.model.util.ModelConstants.BASE_URL;

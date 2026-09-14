@@ -1,3 +1,9 @@
+-- -----------------------------------------------------------------------------
+-- Script de creación de la base de datos MySQL para el servicio ws-movies.
+-- Elimina y crea las tablas 'Movie' y 'Sale' garantizando la integridad referencial
+-- mediante claves foráneas y restricciones CHECK para importes y duraciones.
+-- -----------------------------------------------------------------------------
+
 -- ----------------------------------------------------------------------------
 -- Movies Model
 -- -----------------------------------------------------------------------------

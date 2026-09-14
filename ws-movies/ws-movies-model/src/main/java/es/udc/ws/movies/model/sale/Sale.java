@@ -1,3 +1,8 @@
+/*
+ * Sale.java
+ * Entidad de dominio / DTO que representa la compra de una película por parte de un usuario.
+ */
+
 package es.udc.ws.movies.model.sale;
 
 import java.time.LocalDateTime;

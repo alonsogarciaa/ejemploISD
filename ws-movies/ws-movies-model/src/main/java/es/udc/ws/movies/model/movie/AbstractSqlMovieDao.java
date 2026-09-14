@@ -1,3 +1,9 @@
+/*
+ * AbstractSqlMovieDao.java
+ * Clase base abstracta DAO que implementa las operaciones comunes de lectura,
+ * actualización y borrado de películas en la base de datos SQL.
+ */
+
 package es.udc.ws.movies.model.movie;
 
 import java.sql.Connection;

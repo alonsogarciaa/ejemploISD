@@ -1,3 +1,9 @@
+/*
+ * movies.thrift
+ * Definición del contrato de interfaz RPC usando Apache Thrift.
+ * Incluye estructuras de datos (ThriftMovieDto, ThriftSaleDto), excepciones y servicios.
+ */
+
 namespace java es.udc.ws.movies.thrift
 
 struct ThriftMovieDto {

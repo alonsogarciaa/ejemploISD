@@ -1,3 +1,10 @@
+/*
+ * MovieService.java
+ * Interfaz de la capa de servicio (Lógica de Negocio).
+ * Declara las operaciones disponibles: addMovie, updateMovie, removeMovie, 
+ * findMovie, findMovies, buyMovie y findSale.
+ */
+
 package es.udc.ws.movies.model.movieservice;
 
 import es.udc.ws.movies.model.movieservice.exceptions.MovieNotRemovableException;

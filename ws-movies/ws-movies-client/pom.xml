@@ -1,3 +1,12 @@
+<!-- 
+  POM Raiz del proyecto ws-javaexamples.
+  - Define la versión del modelo POM (4.0.0).
+  - Configura el groupId (es.udc.ws) y el artifactId (ws-javaexamples).
+  - Incluye los submódulos: ws-jdbctutorial, ws-util y ws-movies.
+  - Gestiona propiedades globales (codificación UTF-8, Java 25, versiones de dependencias).
+  - Gestiona el plugin de ejecución SQL (MySQL) y el despliegue con Jetty/WAR.
+-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

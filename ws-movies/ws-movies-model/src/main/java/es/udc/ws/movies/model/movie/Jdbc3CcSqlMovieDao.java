@@ -1,3 +1,9 @@
+/*
+ * Jdbc3CcSqlMovieDao.java
+ * Implementación DAO para MySQL que aprovecha los controladores JDBC 3 
+ * para la recuperación de claves primarias auto-generadas al insertar películas.
+ */
+
 package es.udc.ws.movies.model.movie;
 
 import java.sql.Connection;

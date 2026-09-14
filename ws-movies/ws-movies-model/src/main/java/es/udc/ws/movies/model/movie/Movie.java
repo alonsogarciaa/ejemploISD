@@ -1,3 +1,10 @@
+/*
+ * Movie.java
+ * Entidad de dominio / DTO que representa una película en el sistema.
+ * Contiene propiedades como movieId, title, duration, price, etc., 
+ * junto con constructores, getters, setters, hashCode y equals.
+ */
+
 package es.udc.ws.movies.model.movie;
 
 import java.time.LocalDateTime;

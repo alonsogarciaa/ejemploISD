@@ -1,3 +1,10 @@
+<!-- 
+  Instrucciones de compilación, ejecución y despliegue del proyecto ws-movies:
+  - Inicialización de la base de datos con Maven: mvn sql:execute install
+  - Ejecución del servicio web Jetty: cd ws-movies/ws-movies-service && mvn jetty:run
+  - Comandos para clientes de prueba (exec:java) para añadir, buscar, comprar y borrar películas.
+-->
+
 # ws-javaexamples
 
 ## Installing the development environment
