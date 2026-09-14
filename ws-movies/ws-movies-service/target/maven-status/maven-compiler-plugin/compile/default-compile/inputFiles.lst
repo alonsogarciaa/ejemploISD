@@ -1,0 +1,13 @@
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/dto/MovieToRestMovieDtoConversor.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/dto/RestMovieDto.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/dto/RestSaleDto.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/dto/SaleToRestSaleDtoConversor.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/json/JsonToRestMovieDtoConversor.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/json/JsonToRestSaleDtoConversor.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/json/MoviesExceptionToJsonConversor.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/servlets/MoviesServlet.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/restservice/servlets/SalesServlet.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/thriftservice/MovieToThriftMovieDtoConversor.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/thriftservice/SaleToThriftSaleDtoConversor.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/thriftservice/ThriftMovieServiceImpl.java
+/home/alonsogarcia/ws-javaexamples-3.10.0/ws-movies/ws-movies-service/src/main/java/es/udc/ws/movies/thriftservice/ThriftMovieServiceServlet.java
